@@ -20,4 +20,5 @@
     Cypress, Playwright, Thunder Client, Postman, Testing Frameworks, Automation Testing
 
 ## ⚡ Fun fact: 
-    I can speak 4 languages (English, French, Spanish, Mauritian Creole, and a little bit of Te Reo) and I am always looking to learn more.
+    I can speak 4 languages (English, French, Spanish, Mauritian Creole, and a little bit of Te Reo)
+    and I am always looking to learn more.
