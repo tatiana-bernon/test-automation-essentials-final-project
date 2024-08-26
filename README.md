@@ -1,5 +1,3 @@
-![Header](https://lh3.googleusercontent.com/pw/ACtC-3fSHWURB32UIsQ3vifZkUOXx_6konmt27eCKmooWRsGhJZEqP4Yh7jwglrSXnvfLqmSKNr9w2qZb_KSqRc42VcGPLGRVc_OZgFzbwpVJUTfZH2gYX7p_mP-OlypXWDAwiWR3JVnno7NU_K-cFwPAcKNVw=w1304-h978-no?authuser=0)
-
 <p align='center'>
 <a href="https://www.instagram.com/lepetitjacaranda/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/mtbernon/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
