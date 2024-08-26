@@ -1,7 +1,3 @@
-<p align='center'>
-<a href="https://www.instagram.com/lepetitjacaranda/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/mtbernon/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
-</p>
 
 ### Hello, Kia ora, Bonjour, Hola 👋  I am Tatiana
 
