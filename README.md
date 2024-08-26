@@ -9,19 +9,19 @@
     She/her
     
 ## 🔭 I’m currently working on:
-    Upskilling my Testing Automation skills
+    Upskilling my Testing Automation skills.
 
 ## 🌱 I’m currently learning:
-    EDA Aotearoa QA Testing Automation Online Part-Time Course
+    EDA Aotearoa QA Testing Automation Online Part-Time Course - Upskilling using tools like Playwright.
 
 ## 👯 I’m looking to collaborate on:
-    Any amazing and meaningful project!
+    Any amazing and meaningful project, looking for a passionate Tester and Problem solver.
 
 ## 🤔 I’m looking for help with:
-    Any cool tips or advise on manual Testing and Testing Automation in regards to API, if you have any pointers or advice! Please enlight me!
+    Any cool tips on Testing Automation CI/CD Pipelines and how to test AI.
 
 ## 💬 Ask me about:
-    Anything! I am also up for new adventures! And the best way to learn more is to help others.
+    Cypress, Playwright, Thunder Client, Postman, Testing Frameworks, Automation Testing
 
 ## ⚡ Fun fact: 
     I can speak 4 languages (English, French, Spanish, Mauritian Creole, and a little bit of Te Reo) and I am always looking to learn more.
